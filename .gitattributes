@@ -1,0 +1,5 @@
+source/AI/**/*.pdb filter=lfs diff=lfs merge=lfs -text
+source/AI/**/*.nupkg filter=lfs diff=lfs merge=lfs -text
+source/AI/**/*.onnx filter=lfs diff=lfs merge=lfs -text
+source/AI/**/*.dll filter=lfs diff=lfs merge=lfs -text
+source/AI/**/*.exe filter=lfs diff=lfs merge=lfs -text
