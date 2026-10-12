@@ -1,0 +1,19 @@
+{
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "cmake.sourceDirectory": "C:/Users/Administrator/Desktop/valoai-main/disabledassistanceV1/native",
+    "cmake.autoDetectSourceDirectory": false,
+    "cmake.buildDirectory": "${workspaceFolder}/native/build-ninja",
+    "cmake.generator": "Ninja",
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/native/build-ninja/compile_commands.json",
+    "C_Cpp.default.cppStandard": "c++20",
+    "C_Cpp.default.intelliSenseMode": "windows-msvc-x64",
+    "clangd.compileCommandsDir": "${workspaceFolder}/native/build-ninja",
+    "files.exclude": {
+        "**/native/build": true,
+        "**/native/build-ninja": true
+    },
+    "search.exclude": {
+        "**/native/build": true,
+        "**/native/build-ninja": true
+    }
+}

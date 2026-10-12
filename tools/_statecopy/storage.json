@@ -1,0 +1,186 @@
+{
+    "telemetry.machineId": "f06e7b0366a36f95f85c7ec9b2cf3849e43011d00db765ab36bec4aafb6b3cbc",
+    "telemetry.sqmId": "{CEFBC72A-8557-4E2C-91EB-423322BFFBEC}",
+    "telemetry.devDeviceId": "0ef37e75-f19f-4349-ae02-34af4ca10172",
+    "backupWorkspaces": {
+        "workspaces": [
+            {
+                "id": "796c1bfaab10adf0d4a2fc3d55bb2039",
+                "configURIPath": "file:///c%3A/Users/Administrator/AppData/Roaming/Code/User/agent-sessions.code-workspace"
+            }
+        ],
+        "folders": [
+            {
+                "folderUri": "file:///c%3A/Users/Administrator/Desktop/valoai-main"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///c%3A/Users/Administrator/Desktop/New%20folder": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/valoai-main/valoai-main": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/Lunar%20V2%202.067.2": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/Lunar%20V2%202.067.2/Lunar%20V2.067.2": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/valoai-main": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#262a33",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#d5ced9",
+            "background": "#262a33",
+            "editorBackground": "#262a33",
+            "titleBarBackground": "#23262e",
+            "titleBarInactiveBackground": "#23252a",
+            "activityBarBackground": "#20232b",
+            "activityBarBorder": "#1b1d23",
+            "modernActivityBarBackground": "#20232b",
+            "modernActivityBarInactiveBackground": "#20232b",
+            "modernActivityBarBorder": "#3d3f47",
+            "modernPanelBorder": "#3d3f47",
+            "modernUIShellBackground": "#23262e",
+            "modernUIInactiveShellBackground": "#23252a",
+            "sideBarBackground": "#23262e",
+            "sideBarBorder": "#1b1d23",
+            "panelBackground": "#23262e",
+            "editorGroupBorder": "#444444",
+            "editorBorder": "#3d3f47",
+            "surfaceBackground": "#23262e",
+            "surfaceBorder": "#3d3f47",
+            "agentsPanelBackground": "#23262e",
+            "agentsPanelBorder": "rgba(213, 206, 217, 0.15)",
+            "statusBarBackground": "#23262e",
+            "statusBarNoFolderBackground": "#23262e"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 671,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 28,
+            "windowBorder": false,
+            "modernUI": true,
+            "modernUICompact": false,
+            "partBounds": {
+                "activityBar": {
+                    "top": 35,
+                    "left": 3.990384578704834,
+                    "width": 43.990386962890625,
+                    "height": 1003.9904174804688,
+                    "outerEdges": {
+                        "left": true,
+                        "right": false,
+                        "top": true,
+                        "bottom": true
+                    }
+                },
+                "sideBar": {
+                    "top": 35,
+                    "left": 47.99279022216797,
+                    "width": 670.9976196289062,
+                    "height": 1003.9904174804688,
+                    "outerEdges": {
+                        "left": false,
+                        "right": false,
+                        "top": true,
+                        "bottom": true
+                    }
+                },
+                "panel": {
+                    "top": 782.9807739257812,
+                    "left": 722.9807739257812,
+                    "width": 1243.016845703125,
+                    "height": 255.98558044433594,
+                    "outerEdges": {
+                        "left": false,
+                        "right": true,
+                        "top": false,
+                        "bottom": true
+                    }
+                },
+                "editor": {
+                    "top": 35,
+                    "left": 722.9807739257812,
+                    "width": 1243.016845703125,
+                    "height": 743.9904174804688,
+                    "outerEdges": {
+                        "left": false,
+                        "right": true,
+                        "top": true,
+                        "bottom": false
+                    }
+                }
+            }
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///c%3A/Users/Administrator/Desktop/valoai-main",
+            "backupPath": "C:\\Users\\Administrator\\AppData\\Roaming\\Code\\Backups\\23946fcec97d1058c118fd7a96e35cbb",
+            "uiState": {
+                "mode": 0,
+                "x": 8,
+                "y": 1,
+                "width": 1540,
+                "height": 863
+            }
+        },
+        "openedWindows": []
+    },
+    "userDataProfiles": [
+        {
+            "location": "builtin/agents",
+            "name": "Agents",
+            "useDefaultFlags": {
+                "settings": true,
+                "keybindings": true,
+                "prompts": true,
+                "mcp": true,
+                "languageModels": true,
+                "snippets": true,
+                "tasks": true,
+                "extensions": true
+            }
+        }
+    ],
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 671,
+            "auxiliaryBarWidth": 951,
+            "workspaces": {
+                "796c1bfaab10adf0d4a2fc3d55bb2039": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "0976cc2b199effcde8d476ac95f3ebd9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "a3e5d196b7d36499eaaad1cb36d65d47": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "1dc7b8e9a63f39d3bfe151b93be7da0f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "fee2e602395e30145a793a0f3a6317f4": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "1b8155ff42aa18956fbefba1aa169db8": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

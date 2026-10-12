@@ -1,0 +1,129 @@
+{
+    "fov": {
+        "size": 320,
+        "screen_capture_size": 300,
+        "shape": "square",
+        "border_width": 1,
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "opacity": 0.45,
+        "visible": false
+    },
+    "crosshair": {
+        "size": 10,
+        "thickness": 1,
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "opacity": 0.8,
+        "visible": false
+    },
+    "detections": {
+        "padding": 0,
+        "border_width": 1,
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "opacity": 1,
+        "use_cornered_boxes": true,
+        "visible": false
+    },
+    "keybinds": {
+        "primary": "0x02",
+        "secondary": "0x01",
+        "use_secondary": false,
+        "toggle_keybind": "0x70",
+        "cleanup_keybind": "0x71",
+        "use_toggle": false
+    },
+    "aim_settings": {
+        "sensitivity": 1.0,
+        "smoothing": 0.080,
+        "supported_movement_curves": [
+            "Bezier",
+            "B-Spline",
+            "Catmull",
+            "Exponential",
+            "Hermite",
+            "Sine"
+        ],
+        "movement_curve": "None",
+        "kalman": {
+            "use_kalman": true,
+            "kf_p": 10.0,
+            "kf_r": 0.1,
+            "kf_q": 20.0,
+            "kalman_frames_to_predict": 2.1
+        },
+        "aim_height": 70,
+        "triggerbot": false,
+        "triggerbot_threshold": 1,
+        "supported_mouse_methods": [
+            "Win32api",
+            "GHUB",
+            "Arduino",
+            "spoofed_arduino",
+            "makcu",
+            "rp2040/rp2350"
+        ],
+        "mouse_method": "win32api",
+        "arduino_port": "COM4",
+        "use_silent_aim": false,
+        "silent_aim_strength": 0.402,
+        "silent_aim_delay": 0.006,
+        "silent_aim_cooldown": 0.01,
+        "makcu": {
+            "second_pc_ip": "192.168.67.41"
+        }
+    },
+    "controller": {
+        "controller_brand": "ps4",
+        "use_controller": false,
+        "trigger_deadzone": 0.1,
+        "joystick_deadzone": 0.075
+    },
+    "model_settings": {
+        "confidence": 55.00000000000001,
+        "accuracy_threshold": 90.0,
+        "max_detections": 5,
+        "show_results": false,
+        "use_mss": false,
+        "fps_limit": 240,
+        "gpu": 0
+    },
+    "screen_settings": {
+        "custom_resolution": {
+            "X": 1920,
+            "Y": 1080
+        },
+        "use_custom_resolution": false,
+        "scale": 1,
+        "capture_card_settings": {
+            "use_capture_card": false,
+            "capture_card_name": ""
+        }
+    },
+    "sounds": {
+        "play_keyboard_sounds": true,
+        "play_mouse_sounds": true,
+        "keyboard_volume": 0.4,
+        "mouse_volume": 0.4
+    },
+    "account_settings": {
+        "discord": {
+            "alerts": {
+                "visible": true
+            },
+            "rpc": {
+                "visible": true
+            }
+        }
+    }
+}

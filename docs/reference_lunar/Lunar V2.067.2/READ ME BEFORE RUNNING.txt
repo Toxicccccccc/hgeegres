@@ -1,0 +1,17 @@
+Make sure you have VC Redistributable installed: https://aka.ms/vc14/vc_redist.x64.exe
+
+If you want to use the no-hardware input method, set the mouse method to "vigem".
+You will need to install ViGEmBus: https://github.com/nefarius/ViGEmBus/releases/download/v1.22.0/ViGEmBus_1.22.0_x64_x86_arm64.exe
+
+
+rp_controller_ch340 requires a different firmware than the mouse firmware. https://gannonr.com/account#downloads
+
+
+To open the UI, go in the UI folder and double click LunarV2.pyw (you can also make a desktop shortcut for it if you want).
+If you are using the UI, go to the backend tab and set the directories for LunarV2.exe and config.json
+Then hit the start button on the bottom right.
+
+If you are not using the UI, you can just run LunarV2.exe and edit the config.json manually.
+
+
+This was a big update so be prepared for bugs and issues. I will be fixing them daily and listening to user feedback. ❤️

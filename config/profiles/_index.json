@@ -1,0 +1,13 @@
+{
+  "active": "the_finals.json",
+  "entries": {
+    "the_finals.json": {
+      "game_id": "the_finals",
+      "display_name": "The Finals",
+      "updated": "2026-10-11T02:20:38+00:00",
+      "auto_save": true,
+      "auto_load": true,
+      "model_file": ""
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿# Build output
+native/build-ninja/
+native/build/
+build/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local/generated data
+logs/
+test_dataset_output/
+.git-push-staging/
+
+# Large model/data files
+*.onnx.data
+*.engine
